@@ -1,2 +1,6 @@
 # ignore temporary folders
 ~$*
+# ignores class files
+*.class
+# ignore bak files
+*.bak
