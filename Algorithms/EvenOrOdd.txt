@@ -1,0 +1,8 @@
+1. Start.
+2. Create a class EvenOrOdd.
+3. Get a number as input.
+4. print even or odd based on the conditions:
+    4.1. if the number(num) is 0(zero) then print as neither even nor odd.
+    4.2. if num % 2 is zero then print as even.
+    4.3. if num%2 is not zero then print odd.
+5. Stop.
