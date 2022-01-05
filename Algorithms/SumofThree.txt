@@ -1,0 +1,7 @@
+
+1. Start.
+2. Create a class SumOfThree.
+3. Declare 3 integer valriables n1,n2,n3.
+4. In main method get three inputs and assign to n1,n2,n3. 
+5. Print the result of the sum of three numbers.
+6. Stop.
