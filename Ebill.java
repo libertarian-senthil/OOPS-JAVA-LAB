@@ -1,5 +1,3 @@
-package Practicals;
-
 import java.util.*;
 
 class Ebill {

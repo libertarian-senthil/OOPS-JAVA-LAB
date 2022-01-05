@@ -1,4 +1,4 @@
-package Practicals;
+
 import java.util.Scanner;
 
 public class SumOfThree {
