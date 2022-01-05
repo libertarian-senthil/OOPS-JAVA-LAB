@@ -1,0 +1,9 @@
+1. Start.
+2. Create a class Factorial.
+3. Get num.
+4. Declare fact =1 and i=1.
+5. Repeat step 5 through 7 until i>num
+6. fact = fact*i.
+7. i= i+1.
+8. Print fact.
+9. Stop.
