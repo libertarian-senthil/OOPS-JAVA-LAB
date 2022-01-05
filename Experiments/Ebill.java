@@ -1,4 +1,4 @@
-package Practicals;
+package Practicals.Experiments;
 
 import java.util.*;
 
