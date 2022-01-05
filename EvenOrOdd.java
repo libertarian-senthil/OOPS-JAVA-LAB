@@ -9,6 +9,8 @@ public class EvenOrOdd {
 
         EvenOrOdd obj = new EvenOrOdd();
         Scanner input= new Scanner(System.in);
+
+        System.out.println("Enter a number:");
         obj.number = input.nextInt();
         input.close();
         
@@ -16,10 +18,10 @@ public class EvenOrOdd {
             System.out.println("The given number is neither even nor odd");
         }
         else if (obj.number%2 == 0  ){
-            System.out.println("The given number "+obj.number+"is even");
+            System.out.println("The given number "+obj.number+" is even");
         }
         else{
-            System.out.println("The given number "+obj.number+"is odd");
+            System.out.println("The given number "+obj.number+" is odd");
         }
     }
 }
