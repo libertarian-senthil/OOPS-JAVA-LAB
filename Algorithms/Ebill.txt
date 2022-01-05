@@ -1,0 +1,22 @@
+1. Start.
+2. Create the classrd Ebill, CustomerData, getData, Calc and Display.
+3. In method CustomerData, get the inputs:
+    3.1. customer name.
+    3.2. customer number.
+    3.3. Connection type.
+    3.4. Current month reading.
+    3.5. previous month reading.
+4. In method Calc, calculate the total bill(tbill) using the conditions:
+    4.1 if the connection is domestic:
+        4.1.1. if the units consumed is <= 100 then tbill = units*2.50
+        4.1.2. else if units consumed is >100 and <=200 then tbill= units*4
+        4.1.3. else if units units consumed is >200 and units<=500 then tbill=units*4
+        4.1.4. else if units units consumed is >500 then tbill=units*6
+    4.2 if the connection is commercial:
+        4.2.1. if the units consumed is <= 100 then tbill = units*2.
+        4.2.2. else if units consumed is >100 and <=200 then tbill= units*4.50
+        4.2.3. else if units units consumed is >200 and units<=500 then tbill=units*6
+        4.2.4. else if units units consumed is >500 then tbill=units*7
+5. In method Display, Display the customer name, number, connection type, current reading, previous reading, units consumed, amount to be paid.
+6. In the Ebill class, declare main method call all the three methods.
+7. Stop
