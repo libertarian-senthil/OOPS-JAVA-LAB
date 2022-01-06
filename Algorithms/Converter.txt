@@ -1,0 +1,7 @@
+1. Start.
+2. Create the following Packages CurrencyConversion, DistanceConversion, TimeConversion.
+3. Create separate methods to convert the currency, time, and distance in the respective package.
+4. In the main class converter.java, create objects for each packages.
+5. Using switch case statement access the particular object's method to convert from the one value to the other.
+6. Print the converted value.
+7. Stop.
