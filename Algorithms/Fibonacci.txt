@@ -1,0 +1,12 @@
+1. START.
+2. Create a class Fibonacci.
+3. GET num.
+4. Create the method fib() with parameter num.
+	3.1. IF num <= 1 THEN return the num.
+4. return fib(num-1)+fib(num-2).
+5. PRINT the returned value as output.
+6. STOP.
+
+NOTE:
+-----
+This is a recursive method. the mathematical formula for fibonacci is Σ[0-n]f(n)= f(n-1)+f(n-2).
